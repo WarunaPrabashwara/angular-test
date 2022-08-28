@@ -1,0 +1,81 @@
+npm install -g @angular/cli
+
+ng new my-app
+
+go to directory and 
+ng serve --open   		//meeka gahuwama hot reload wenwa 
+ng serve 			// meka gahuwata hot reload wenne neaha 
+npm start ekenuth start karanna pluwan [ json file eke liyala tyenawa meeka gahuwama ng start eka run wenna kiyala 
+
+
+meke th hariyata laravel wage thama 
+component ehema create karanne command walin. nikanma files save karanna bari seen ekak atthe 
+
+ex = component ekak generate karanna oni unama 
+ng g c <componenet name > 		widihata yanne . g kiyanne genarate , c kiyanne component   . but mehemai 
+oninm ee command eka nAthuwa nikanma karannath pluwan meka . 
+foldder eka hadala eeka athule adaala file manuallly liyala karanna pluwan  
+pahala tyenwa tutorial ekaka link ekak . eeke ehemai karanne 
+[ laravel walath command saha manual kiyana dewidihatama karanna pluwan athi ]
+
+
+
+
+npm install wenuwata meke tyenne   ng add kiyala ekak 
+
+dev dependancies install karannanm  npm install 		 use karanwa
+
+
+
+
+
+https://jasonwatmore.com/post/2019/04/29/angular-7-tutorial-part-3-add-routing-multiple-pages
+mee tutorial eka kalaa
+
+
+
+
+
+
+
+
+anthimata 
+ng build 
+eken build karanna 
+build wecchi app eka thiyenne 
+dist kiyana folder eke . eka athule ape peohect name eken folder ekak athi . eeka athul etyena file tiika compress karaganna zip ekakata 
+eeka adaala pllace ekata upload karala [ cpanel nam ehemai ]  eeka unzip karaganna 
+
+https://www.youtube.com/watch?v=z_ejiR3Im5s
+uda video eke tynwa deployenment ekakarana hati
+
+
+
+
+
+
+
+mama auto file select karala upload karana kramayak hewwa . but meeka search karanna oni tag eka mata me wenakan meter wela thibbe naha . eeka thama
+auto select files in js 
+kiyla thama search kale
+Utthare thama meeka karanna baha kiyana eka 
+https://stackoverflow.com/questions/6877686/automatically-selecting-file-and-submitting-javascript
+https://stackoverflow.com/questions/1696877/how-to-set-a-value-to-a-file-input-in-html
+uda link eke tyenwa case eka. meeka loku security issue ekak kiyala pple have understood 
+mokada ehema pluwannm 
+ <input type="file" value="c:/passwords.txt">
+kiyala input ekata value field ekak daanna pluwan . eeka for loop ekakin siyalu file osse run wenna hadanna pluwan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
