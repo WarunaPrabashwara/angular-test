@@ -52,6 +52,11 @@ uda video eke tynwa deployenment ekakarana hati
 
 
 
+npm install saha 
+ng add deke wenasa
+https://stackoverflow.com/questions/50169680/difference-between-ng-add-package-name-vs-npm-install-package-name-in-angula
+Uda link eken balanna
+
 
 
 
